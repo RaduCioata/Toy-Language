@@ -87,6 +87,3 @@ The interpreter comes with several hardcoded example programs demonstrating diff
 - Maven for build management
 - JUnit for testing
 
-## License
-
-This project is available for educational purposes. 
